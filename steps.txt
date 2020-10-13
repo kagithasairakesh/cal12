@@ -1,0 +1,58 @@
+
+
+
+--create a new folder "cal12"
+
+--Now in the folder create you python code file "code.py"
+
+--Now edit this file or write the code. 
+
+--And now create another file as "app.yaml"
+
+--edit as per requriments. like version and add our code file to script.
+
+--now push the floder to the git 
+
+--copy the repo link 
+--goto cloud console 
+
+--create a new project 
+--clone the repo there 
+ -git clone "repo link"
+
+
+--initialze for the first use and login to google account  and authenticate the sdk to access you gcloud account.
+--gcloud init
+
+--To continue, you must log in. Would you like to log in (Y/n)? Y
+
+--As you are linked you can see the projects select your project
+
+--now to into the folder 
+-cd 'folder name'
+
+--now deploy
+
+-gcloud app deploy
+
+--now chosse the zone/server
+--now try browse
+
+-gcloud app browse
+
+
+---open the link in the broswer or it will automaticlly open the link in the browser.
+
+https://cale-292407.du.r.appspot.com/-
+
+
+
+
+
+
+
+
+
+
+
+
