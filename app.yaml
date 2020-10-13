@@ -1,5 +1,5 @@
 
-runtime: python3
+runtime: python 3.8
 # threadsafe is required but can be either true or 
 # false. For some package, it should be true e.g. Flask
 threadsafe: false
